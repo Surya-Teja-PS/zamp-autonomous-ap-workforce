@@ -1,0 +1,12 @@
+
+INVOICE
+Vendor: Vanguard Industrial Supply
+Tax ID: 84-1920491
+Account #: *3304
+Invoice #: INV-TXT-7740
+Invoice Date: 2026-11-08
+PO Reference: PO-2026-309
+Line Items:
+VIS-VALVE-HD Heavy-Duty Hydraulic Valve Model-X 100 EA $122.00 $12,200.00
+Subtotal: $12,200.00
+Total Amount: $12,200.00

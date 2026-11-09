@@ -1,0 +1,23 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Large media files (videos)
+*.mp4
+*.mov
+*.avi
+*.wmv
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
